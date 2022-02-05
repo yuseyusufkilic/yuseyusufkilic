@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, i am Yuşe Yusuf
+#### I am a *full-stack web developer* candidate.
+![I am a *full-stack web developer* candidate.](https://i.hizliresim.com/jflwdlg.png)
 
-<!--
-**yuseyusufkilic/yuseyusufkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.95 GPA.**
 
-Here are some ideas to get you started:
+Skills: HTML&CSS/BOOTSTRAP/C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning full-stack web development. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yuseyusufkilic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuseyusufkilic/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuseyusufkilic)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/yuseyusufkilic)  
