@@ -2,7 +2,7 @@
 #### I am a *full-stack web developer* candidate.
 ![I am a *full-stack web developer* candidate.](https://i.hizliresim.com/jflwdlg.png)
 
-I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.97 GPA.**
+I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.95 GPA.**
 
 Skills: HTML&CSS/BOOTSTRAP/C#
 
