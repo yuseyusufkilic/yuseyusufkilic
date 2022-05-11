@@ -6,7 +6,7 @@ I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli Universi
 
 Skills: HTML&CSS/BOOTSTRAP/C#
 
-- 🌱 I’m currently learning full-stack web development. 
+- 🌱 I’m currently learning .NET backend development.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="font-color:white">](https://www.linkedin.com/in/yuseyusufkilic/)  
