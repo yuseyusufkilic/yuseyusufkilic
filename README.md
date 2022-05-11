@@ -4,7 +4,7 @@
 
 I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.95 GPA.**
 
-Skills: HTML&CSS/BOOTSTRAP/C#
+Skills: ASP.NET Core MVC / Web API / EF Core / MSSQL
 
 - 🌱 I’m currently learning .NET backend development.
 
