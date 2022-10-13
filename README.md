@@ -4,7 +4,7 @@
 
 I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.95 GPA.**
 
-Skills: .NET Core/EF Core/SQL/React
+Skills: .NET/Git/SQL/React/Jenkins&OpenShift
 
 - 🌱 I’m currently learning React for frontend development.
 
