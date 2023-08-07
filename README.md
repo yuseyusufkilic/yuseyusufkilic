@@ -1,5 +1,5 @@
 ### Hi there 👋, i am Yuşe Yusuf
-#### I am a *full-stack developer* (candidate for frontend 😀 ).
+#### I am a *back-end *developer*.
 ![I am a *backend developer* candidate.](https://i.hizliresim.com/jflwdlg.png)
 
 I am Yuşe Yusuf Kılıç and 23-years-old. I've graduated from Kocaeli University, Electronics&Communcation Engineering with **2.95 GPA.**
