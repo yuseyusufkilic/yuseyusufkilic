@@ -1,5 +1,5 @@
 ### Hi there 👋, i am Yuşe Yusuf
-#### I am a *back-end *developer*.
+#### I am a back-end *developer*.
 ![I am a backend developer*](https://i.hizliresim.com/jflwdlg.png)
 
 I am Yuşe Yusuf Kılıç and 25-years-old.
