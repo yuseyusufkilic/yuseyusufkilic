@@ -1,6 +1,5 @@
 ### Hi there 👋, i am Yuşe Yusuf
 #### I am a full-stack *developer* with +3 years of experience.
-![I am a backend developer*](https://i.hizliresim.com/jflwdlg.png)
 
 I am Yuşe Yusuf Kılıç and 26-years-old.
 
