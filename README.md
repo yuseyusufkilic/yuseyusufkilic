@@ -2,7 +2,7 @@
 #### I am a full-stack *developer* with +3 years of experience.
 ![I am a backend developer*](https://i.hizliresim.com/jflwdlg.png)
 
-I am Yuşe Yusuf Kılıç and 27-years-old.
+I am Yuşe Yusuf Kılıç and 26-years-old.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="font-color:white">](https://www.linkedin.com/in/yuseyusufkilic/)  
 
